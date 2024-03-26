@@ -1,0 +1,2 @@
+# teazynet
+teazynet is tesnet
